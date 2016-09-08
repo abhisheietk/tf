@@ -1,3 +1,4 @@
 *.ipynb_checkpoints/
 /mnist/MNIST_data/
-
+/baza_slika.zip
+/baza_slika/
